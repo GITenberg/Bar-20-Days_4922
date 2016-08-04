@@ -1,0 +1,29 @@
+_repo: Bar-20-Days_4922
+_version: 0.0.1
+alternative_title: Bar-Twenty Days
+creator:
+  author:
+    agent_name: Mulford, Clarence Edward
+    alias: Mulford, Clarence E.
+    birthdate: 1883
+    deathdate: 1956
+    gutenberg_agent_id: '962'
+    url: http://www.gutenberg.org/2009/agents/962
+    wikipedia: http://en.wikipedia.org/wiki/Clarence_E._Mulford
+description: ''
+gutenberg_bookshelf: Western
+gutenberg_issued: '2006-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4922'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Cassidy, Hopalong (Fictitious character) -- Fiction'
+- !lcsh 'Western stories'
+- GITenberg
+title: Bar-20 Days
+url: http://www.gutenberg.org/ebooks/4922
